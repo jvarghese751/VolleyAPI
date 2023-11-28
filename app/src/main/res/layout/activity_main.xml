@@ -8,11 +8,12 @@
 
     <TextView
         android:id="@+id/weather_txt"
-        android:layout_width="195dp"
-        android:layout_height="147dp"
+        android:layout_width="402dp"
+        android:layout_height="719dp"
         android:text="Default"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
